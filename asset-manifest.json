@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.fca0f902.chunk.css",
+    "main.js": "/memory-card/static/js/main.cedd7632.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.cedd7632.chunk.js.map",
+    "runtime-main.js": "/memory-card/static/js/runtime-main.43332a48.js",
+    "runtime-main.js.map": "/memory-card/static/js/runtime-main.43332a48.js.map",
+    "static/js/2.2a8bdad8.chunk.js": "/memory-card/static/js/2.2a8bdad8.chunk.js",
+    "static/js/2.2a8bdad8.chunk.js.map": "/memory-card/static/js/2.2a8bdad8.chunk.js.map",
+    "static/js/3.0eedc7b8.chunk.js": "/memory-card/static/js/3.0eedc7b8.chunk.js",
+    "static/js/3.0eedc7b8.chunk.js.map": "/memory-card/static/js/3.0eedc7b8.chunk.js.map",
+    "index.html": "/memory-card/index.html",
+    "static/css/main.fca0f902.chunk.css.map": "/memory-card/static/css/main.fca0f902.chunk.css.map",
+    "static/js/2.2a8bdad8.chunk.js.LICENSE.txt": "/memory-card/static/js/2.2a8bdad8.chunk.js.LICENSE.txt",
+    "static/media/alexander-keith.fbffc85f.png": "/memory-card/static/media/alexander-keith.fbffc85f.png",
+    "static/media/beer.e9321631.png": "/memory-card/static/media/beer.e9321631.png",
+    "static/media/budweiser.b1dbbddd.png": "/memory-card/static/media/budweiser.b1dbbddd.png",
+    "static/media/game-over.934ae535.gif": "/memory-card/static/media/game-over.934ae535.gif",
+    "static/media/guinness-doublin-porter.7882b737.png": "/memory-card/static/media/guinness-doublin-porter.7882b737.png",
+    "static/media/heineken.7d4ec245.png": "/memory-card/static/media/heineken.7d4ec245.png",
+    "static/media/honey-brown-lager.6423802f.png": "/memory-card/static/media/honey-brown-lager.6423802f.png",
+    "static/media/labatt-blue.09d29a0a.png": "/memory-card/static/media/labatt-blue.09d29a0a.png",
+    "static/media/molson-canadian.be32518a.png": "/memory-card/static/media/molson-canadian.be32518a.png",
+    "static/media/sapporo.4b8b620b.png": "/memory-card/static/media/sapporo.4b8b620b.png",
+    "static/media/stella-artois.d434549b.png": "/memory-card/static/media/stella-artois.d434549b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43332a48.js",
+    "static/js/2.2a8bdad8.chunk.js",
+    "static/css/main.fca0f902.chunk.css",
+    "static/js/main.cedd7632.chunk.js"
+  ]
+}
